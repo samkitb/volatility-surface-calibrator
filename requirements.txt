@@ -1,0 +1,11 @@
+yfinance
+numpy
+scipy
+torch
+plotly
+dash
+dash-bootstrap-components
+scikit-learn
+pandas
+requests
+gunicorn

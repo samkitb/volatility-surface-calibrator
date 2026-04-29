@@ -13,7 +13,7 @@
 
 <!-- IMAGE PLACEHOLDER 1 — Replace with your best dashboard screenshot (the 3D surface at a good angle) -->
 <!-- To add: create an "assets" folder in your repo, drop your screenshot in as "dashboard_main.png" -->
-#### Dashboard
+## Dashboard
 
 https://volatility-surface-calibrator.onrender.com/
 
@@ -21,6 +21,13 @@ https://volatility-surface-calibrator.onrender.com/
 *Live AAPL volatility surface — neural network prediction (colored mesh) vs real market data points (yellow dots)*
 
 ---
+
+## Presentation
+
+[Check out my recorded presentation!]([https://youtu.be/Ddr6Vh4kRPk])
+
+https://youtu.be/Ddr6Vh4kRPk
+
 
 ## Table of Contents
 

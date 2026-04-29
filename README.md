@@ -24,7 +24,7 @@ https://volatility-surface-calibrator.onrender.com/
 
 ## Presentation
 
-[Check out my recorded presentation!]([https://youtube.com](https://youtu.be/Ddr6Vh4kRPk))
+[Check out my recorded presentation!]([https://youtu.be/Ddr6Vh4kRPk])
 
 https://youtube.com](https://youtu.be/Ddr6Vh4kRPk
 

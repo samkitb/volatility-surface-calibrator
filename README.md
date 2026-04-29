@@ -415,7 +415,7 @@ This project directly covers the following topics from CAP 4630 — Intro to Art
 
 ---
 
-## Troubleshooting
+## Troubleshoot
 
 **`No module named 'black_scholes'`**
 Run scripts from the project root, not from inside `src/`:
@@ -438,7 +438,11 @@ Run `python run.py AAPL` first to generate the trained model before launching th
 ## Contact
 
 **Developer:** Samkit Bothra
+
+
 **Email:** [samkitbothra11@gmail.com]
+
+
 **GitHub:** [https://github.com/samkitb/volatility-surface-calibrator](https://github.com/samkitb/volatility-surface-calibrator)
 
 ---

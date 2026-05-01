@@ -15,7 +15,7 @@
 <!-- To add: create an "assets" folder in your repo, drop your screenshot in as "dashboard_main.png" -->
 ## Dashboard
 
-https://volatility-surface-calibrator.onrender.com/
+https://volatility-surface-calibrator.onrender.com/   -- MAY TAKE UP TO 60 SEC TO LOAD DUE TO SIZE OF PROEJCT AND FREE TIER
 
 
 *Live AAPL volatility surface — neural network prediction (colored mesh) vs real market data points (yellow dots)*
